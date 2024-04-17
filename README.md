@@ -2,6 +2,12 @@
 
 개발자로서의 역량강화와 지식 공유를 위한 **🐶 개발자 모임** 입니다 :)
 
+<div align="center">
+
+<img src="https://github.com/mobi-social/booksbi-3rd-1/assets/50646145/c4f42dac-5fde-496b-9c24-e240fdcbc07f" width="484"/>
+
+</div>
+
 <br/>
 <br/>
 
@@ -59,16 +65,22 @@ booksbi-3rd-1
 - 독서 진행일마다, 업데이트 해주시길 바랍니다!!
 - 추가 + 커스텀 하셔도 좋습니다. :)
 
+
 -----
 ```
 # 쏙쏙 들어오는 함수형 코딩 
 
 <div align="center">
 
+<img src="https://github.com/mobi-social/booksbi-3rd-1/assets/50646145/0ca14534-f210-410e-9ae3-3bd821f1f377" width="256"/>
+
 </div>
 
-✍🏻 저자 : 에릭 노먼드
-⏳ 독서기간 : 2024.04.15 ~
-🔥 진행상황 : n / 599
+> _나의 한줄평 : 졸잼!!_
+
+- ✍🏻 저자 : 에릭 노먼드
+- ⏳ 독서기간 : 2024.04.15 ~
+- 🔥 진행상황 : n / 599
 ```
 -----
+
